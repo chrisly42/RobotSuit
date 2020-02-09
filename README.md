@@ -1,7 +1,8 @@
 # RobotSuit
-###Firmware for Robot Kids Costume (Circuit Playground Express + CRICKIT).
 
-*3D printed parts on [Thingiverse](https://www.thingiverse.com/thing:4145990).*
+## Firmware for Robot Kids Costume (Circuit Playground Express + CRICKIT).
+
+### 3D printed parts on [Thingiverse](https://www.thingiverse.com/thing:4145990)!
 
 Here is the firmware I used to create a carnival robot custume for my kid.
 
